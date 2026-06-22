@@ -1,0 +1,6 @@
+{
+  "name": "Wallpapers 4D",
+  "description": "Generador de fondos de pantalla 4D interactivos con efecto de profundidad por capas que responden al movimiento del dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
